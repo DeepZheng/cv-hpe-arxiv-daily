@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Revisiting Fully Convolutional Geometric Features for Object 6D Pose Estimation**|Jaime Corsetti et.al.|[2307.15514](http://arxiv.org/abs/2307.15514)|null|
+|**2023-07-28**|**Robust Visual Sim-to-Real Transfer for Robotic Manipulation**|Ricardo Garcia et.al.|[2307.15320](http://arxiv.org/abs/2307.15320)|null|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889](http://arxiv.org/abs/2307.14889)|null|
 |**2023-07-26**|**Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control**|Yijiong Lin et.al.|[2307.14510](http://arxiv.org/abs/2307.14510)|null|
 |**2023-07-28**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247](http://arxiv.org/abs/2307.14247)|**[link](https://github.com/li9i/cbgl)**|
@@ -36,6 +38,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250](http://arxiv.org/abs/2307.15250)|null|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240](http://arxiv.org/abs/2307.14240)|null|
 |**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254](http://arxiv.org/abs/2307.13254)|null|
