@@ -11,6 +11,11 @@
     <summary><a href=#2023-6>2023-6</a></summary>
     <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
  </details>
+ <details>
+    <summary><a href=#2023-8>2023-8</a></summary>
+    <ol><a href=#pose-estimation>Pose Estimation</a></ol>
+    <ol><a href=#visual-localization>Visual Localization</a></ol>
+ </details>
 </details>
 
 ## 2023-7
@@ -19,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628](http://arxiv.org/abs/2308.00628)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-01**|**Markerless human pose estimation for biomedical applications: a survey**|Andrea Avogaro et.al.|[2308.00519](http://arxiv.org/abs/2308.00519)|null|
+|**2023-08-01**|**Kidnapping Deep Learning-based Multirotors using Optimized Flying Adversarial Patches**|Pia Hanfeld et.al.|[2308.00344](http://arxiv.org/abs/2308.00344)|null|
+|**2023-08-01**|**Fine-Grained Sports, Yoga, and Dance Postures Recognition: A Benchmark Analysis**|Asish Bera et.al.|[2308.00323](http://arxiv.org/abs/2308.00323)|null|
+|**2023-08-01**|**Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)**|Chaochao Zhou et.al.|[2308.00214](http://arxiv.org/abs/2308.00214)|null|
 |**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765](http://arxiv.org/abs/2307.16765)|**[link](https://github.com/haonanwang0522/srpose)**|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
 |**2023-07-30**|**Touch if it's transparent! ACTOR: Active Tactile-based Category-Level Transparent Object Reconstruction**|Prajval Kumar Murali et.al.|[2307.16254](http://arxiv.org/abs/2307.16254)|null|
@@ -45,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688](http://arxiv.org/abs/2308.00688)|null|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395](http://arxiv.org/abs/2307.16395)|null|
 |**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250](http://arxiv.org/abs/2307.15250)|null|
@@ -96,6 +107,42 @@
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938](http://arxiv.org/abs/2306.01938)|null|
+
+<p align=right>(<a href=#updated-on-20230802>back to top</a>)</p>
+
+## 2023-8
+
+### Pose Estimation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628](http://arxiv.org/abs/2308.00628)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-01**|**Markerless human pose estimation for biomedical applications: a survey**|Andrea Avogaro et.al.|[2308.00519](http://arxiv.org/abs/2308.00519)|null|
+|**2023-08-01**|**Kidnapping Deep Learning-based Multirotors using Optimized Flying Adversarial Patches**|Pia Hanfeld et.al.|[2308.00344](http://arxiv.org/abs/2308.00344)|null|
+|**2023-08-01**|**Fine-Grained Sports, Yoga, and Dance Postures Recognition: A Benchmark Analysis**|Asish Bera et.al.|[2308.00323](http://arxiv.org/abs/2308.00323)|null|
+|**2023-08-01**|**Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)**|Chaochao Zhou et.al.|[2308.00214](http://arxiv.org/abs/2308.00214)|null|
+|**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765](http://arxiv.org/abs/2307.16765)|**[link](https://github.com/haonanwang0522/srpose)**|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-30**|**Touch if it's transparent! ACTOR: Active Tactile-based Category-Level Transparent Object Reconstruction**|Prajval Kumar Murali et.al.|[2307.16254](http://arxiv.org/abs/2307.16254)|null|
+|**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117](http://arxiv.org/abs/2307.16117)|null|
+|**2023-07-29**|**Iterative Graph Filtering Network for 3D Human Pose Estimation**|Zaedul Islam et.al.|[2307.16074](http://arxiv.org/abs/2307.16074)|**[link](https://github.com/zaedulislam/gs-net)**|
+
+<p align=right>(<a href=#updated-on-20230802>back to top</a>)</p>
+
+### Visual Localization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688](http://arxiv.org/abs/2308.00688)|null|
+|**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
+|**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395](http://arxiv.org/abs/2307.16395)|null|
+|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250](http://arxiv.org/abs/2307.15250)|null|
+|**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
+|**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240](http://arxiv.org/abs/2307.14240)|null|
+|**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254](http://arxiv.org/abs/2307.13254)|null|
+|**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
+|**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
+|**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 
 <p align=right>(<a href=#updated-on-20230802>back to top</a>)</p>
 
