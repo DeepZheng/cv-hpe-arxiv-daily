@@ -104,6 +104,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
+|**2023-08-10**|**Toward Globally Optimal State Estimation Using Automatically Tightened Semidefinite Relaxations**|Frederike Dümbgen et.al.|[2308.05783](http://arxiv.org/abs/2308.05783)|null|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459](http://arxiv.org/abs/2308.05459)|null|
 |**2023-08-10**|**How-to Augmented Lagrangian on Factor Graphs**|Barbara Bazzana et.al.|[2308.05444](http://arxiv.org/abs/2308.05444)|null|
 |**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438](http://arxiv.org/abs/2308.05438)|**[link](https://github.com/junzastar/dftr_voting)**|
