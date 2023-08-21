@@ -1,4 +1,4 @@
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 <details>
   <summary>Time Line</summary>
  <details>
@@ -53,7 +53,7 @@
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116](http://arxiv.org/abs/2307.12116)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
 |**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106](http://arxiv.org/abs/2307.12106)|null|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -82,7 +82,7 @@
 |**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
 |**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -105,7 +105,7 @@
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938](http://arxiv.org/abs/2306.01938)|null|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 ## 2023-6
 
@@ -129,7 +129,7 @@
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938](http://arxiv.org/abs/2306.01938)|null|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 ## 2023-8
 
@@ -137,12 +137,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-16**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518](http://arxiv.org/abs/2308.08518)|null|
+|**2023-08-17**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518](http://arxiv.org/abs/2308.08518)|null|
 |**2023-08-16**|**View Consistent Purification for Accurate Cross-View Localization**|Shan Wang et.al.|[2308.08110](http://arxiv.org/abs/2308.08110)|null|
 |**2023-08-15**|**Learning Better Keypoints for Multi-Object 6DoF Pose Estimation**|Yangzheng Wu et.al.|[2308.07827](http://arxiv.org/abs/2308.07827)|null|
 |**2023-08-14**|**Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation**|Huan Liu et.al.|[2308.07313](http://arxiv.org/abs/2308.07313)|**[link](https://github.com/michel-liu/grouppose-paddle)**|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573](http://arxiv.org/abs/2308.06573)|null|
-|**2023-08-12**|**EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes**|Jiaxi Jiang et.al.|[2308.06493](http://arxiv.org/abs/2308.06493)|null|
+|**2023-08-17**|**EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes**|Jiaxi Jiang et.al.|[2308.06493](http://arxiv.org/abs/2308.06493)|null|
 |**2023-08-11**|**Aggressive Aerial Grasping using a Soft Drone with Onboard Perception**|Samuel Ubellacker et.al.|[2308.06351](http://arxiv.org/abs/2308.06351)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-10**|**Toward Globally Optimal State Estimation Using Automatically Tightened Semidefinite Relaxations**|Frederike Dümbgen et.al.|[2308.05783](http://arxiv.org/abs/2308.05783)|null|
@@ -172,7 +172,7 @@
 |**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117](http://arxiv.org/abs/2307.16117)|null|
 |**2023-07-29**|**Iterative Graph Filtering Network for 3D Human Pose Estimation**|Zaedul Islam et.al.|[2307.16074](http://arxiv.org/abs/2307.16074)|**[link](https://github.com/zaedulislam/gs-net)**|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -199,7 +199,7 @@
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -221,7 +221,7 @@
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 
-<p align=right>(<a href=#updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
