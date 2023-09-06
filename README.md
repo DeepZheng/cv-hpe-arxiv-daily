@@ -21,6 +21,7 @@
     <summary><a href=#2023-9>2023-9</a></summary>
     <ol><a href=#pose-estimation>Pose Estimation</a></ol>
     <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
+    <ol><a href=#visual-localization>Visual Localization</a></ol>
  </details>
 </details>
 
@@ -145,6 +146,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
+|**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925](http://arxiv.org/abs/2309.01925)|null|
+|**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612](http://arxiv.org/abs/2309.01612)|null|
+|**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575](http://arxiv.org/abs/2309.01575)|null|
+|**2023-09-04**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Li et.al.|[2309.01365](http://arxiv.org/abs/2309.01365)|null|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
+|**2023-09-02**|**Mitigating Motion Blur for Robust 3D Baseball Player Pose Modeling for Pitch Analysis**|Jerrin Bright et.al.|[2309.01010](http://arxiv.org/abs/2309.01010)|null|
 |**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310](http://arxiv.org/abs/2309.00310)|**[link](https://github.com/shaohua-pan/RobustCap)**|
 |**2023-08-31**|**EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild**|Manuel Kaufmann et.al.|[2308.16894](http://arxiv.org/abs/2308.16894)|**[link](https://github.com/eth-ait/emdb)**|
 |**2023-08-31**|**SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects**|Ning Gao et.al.|[2308.16528](http://arxiv.org/abs/2308.16528)|null|
@@ -228,6 +236,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
+|**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859](http://arxiv.org/abs/2309.01859)|null|
+|**2023-09-04**|**Target-Guided Composed Image Retrieval**|Haokun Wen et.al.|[2309.01366](http://arxiv.org/abs/2309.01366)|null|
+|**2023-09-02**|**Deep supervised hashing for fast retrieval of radio image cubes**|Steven Ndung'u et.al.|[2309.00932](http://arxiv.org/abs/2309.00932)|null|
 |**2023-08-31**|**Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval**|Prateksha Udhayanan et.al.|[2308.16649](http://arxiv.org/abs/2308.16649)|null|
 |**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786](http://arxiv.org/abs/2308.14786)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
@@ -271,6 +283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 |**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
@@ -304,6 +317,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
+|**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925](http://arxiv.org/abs/2309.01925)|null|
+|**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612](http://arxiv.org/abs/2309.01612)|null|
+|**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575](http://arxiv.org/abs/2309.01575)|null|
+|**2023-09-04**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Li et.al.|[2309.01365](http://arxiv.org/abs/2309.01365)|null|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
+|**2023-09-02**|**Mitigating Motion Blur for Robust 3D Baseball Player Pose Modeling for Pitch Analysis**|Jerrin Bright et.al.|[2309.01010](http://arxiv.org/abs/2309.01010)|null|
 |**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310](http://arxiv.org/abs/2309.00310)|**[link](https://github.com/shaohua-pan/RobustCap)**|
 |**2023-08-31**|**EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild**|Manuel Kaufmann et.al.|[2308.16894](http://arxiv.org/abs/2308.16894)|**[link](https://github.com/eth-ait/emdb)**|
 |**2023-08-31**|**SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects**|Ning Gao et.al.|[2308.16528](http://arxiv.org/abs/2308.16528)|null|
@@ -321,6 +341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 |**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
@@ -331,6 +352,23 @@
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-09-03**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
+
+<p align=right>(<a href=#updated-on-20230906>back to top</a>)</p>
+
+### Visual Localization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
+|**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859](http://arxiv.org/abs/2309.01859)|null|
+|**2023-09-04**|**Target-Guided Composed Image Retrieval**|Haokun Wen et.al.|[2309.01366](http://arxiv.org/abs/2309.01366)|null|
+|**2023-09-02**|**Deep supervised hashing for fast retrieval of radio image cubes**|Steven Ndung'u et.al.|[2309.00932](http://arxiv.org/abs/2309.00932)|null|
+|**2023-08-31**|**Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval**|Prateksha Udhayanan et.al.|[2308.16649](http://arxiv.org/abs/2308.16649)|null|
+|**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786](http://arxiv.org/abs/2308.14786)|null|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
+|**2023-08-26**|**Learning Efficient Representations for Image-Based Patent Retrieval**|Hongsong Wang et.al.|[2308.13749](http://arxiv.org/abs/2308.13749)|null|
+|**2023-08-25**|**Enhancing Landmark Detection in Cluttered Real-World Scenarios with Vision Transformers**|Mohammad Javad Rajabi et.al.|[2308.13671](http://arxiv.org/abs/2308.13671)|null|
 
 <p align=right>(<a href=#updated-on-20230906>back to top</a>)</p>
 
