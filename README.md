@@ -237,6 +237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148](http://arxiv.org/abs/2309.04148)|null|
 |**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
 |**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859](http://arxiv.org/abs/2309.01859)|null|
 |**2023-09-04**|**Target-Guided Composed Image Retrieval**|Haokun Wen et.al.|[2309.01366](http://arxiv.org/abs/2309.01366)|null|
@@ -319,6 +320,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891](http://arxiv.org/abs/2309.03891)|null|
 |**2023-09-05**|**An automated, high-resolution phenotypic assay for adult Brugia malayi and microfilaria**|Upender Kalwa et.al.|[2309.03235](http://arxiv.org/abs/2309.03235)|null|
 |**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569](http://arxiv.org/abs/2309.02569)|null|
@@ -365,6 +367,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148](http://arxiv.org/abs/2309.04148)|null|
 |**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
 |**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859](http://arxiv.org/abs/2309.01859)|null|
 |**2023-09-04**|**Target-Guided Composed Image Retrieval**|Haokun Wen et.al.|[2309.01366](http://arxiv.org/abs/2309.01366)|null|
