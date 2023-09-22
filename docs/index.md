@@ -292,6 +292,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
+|**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986](http://arxiv.org/abs/2309.11986)|null|
+|**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962](http://arxiv.org/abs/2309.11962)|null|
+|**2023-09-21**|**A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose**|Qingtian Wu et.al.|[2309.11773](http://arxiv.org/abs/2309.11773)|null|
+|**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667](http://arxiv.org/abs/2309.11667)|null|
+|**2023-09-20**|**Online Supervised Training of Spaceborne Vision during Proximity Operations using Adaptive Kalman Filtering**|Tae Ha Park et.al.|[2309.11645](http://arxiv.org/abs/2309.11645)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|null|
 |**2023-09-19**|**Language-Conditioned Affordance-Pose Detection in 3D Point Clouds**|Toan Nguyen et.al.|[2309.10911](http://arxiv.org/abs/2309.10911)|null|
 |**2023-09-19**|**MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**|Surbhi Madan et.al.|[2309.10765](http://arxiv.org/abs/2309.10765)|**[link](https://github.com/surbhimadan92/magic-tbr)**|
@@ -369,6 +375,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033](http://arxiv.org/abs/2309.12033)|null|
+|**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
 |**2023-09-20**|**2D-3D Pose Tracking with Multi-View Constraints**|Huai Yu et.al.|[2309.11335](http://arxiv.org/abs/2309.11335)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225](http://arxiv.org/abs/2309.10225)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-11**|**Introspective Deep Metric Learning**|Chengkun Wang et.al.|[2309.09982](http://arxiv.org/abs/2309.09982)|null|
