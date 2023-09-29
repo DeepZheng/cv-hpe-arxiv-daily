@@ -329,6 +329,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634](http://arxiv.org/abs/2309.16634)|null|
+|**2023-09-28**|**Off-the-shelf bin picking workcell with visual pose estimation: A case study on the world robot summit 2018 kitting task**|Frederik Hagelskjær et.al.|[2309.16221](http://arxiv.org/abs/2309.16221)|null|
+|**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189](http://arxiv.org/abs/2309.16189)|null|
+|**2023-09-28**|**Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation**|Sameer Pai et.al.|[2309.16170](http://arxiv.org/abs/2309.16170)|null|
+|**2023-09-28**|**CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**|Shaoxiang Guo et.al.|[2309.16140](http://arxiv.org/abs/2309.16140)|null|
+|**2023-09-28**|**A Modular Bio-inspired Robotic Hand with High Sensitivity**|Chao Liu et.al.|[2309.16081](http://arxiv.org/abs/2309.16081)|null|
+|**2023-09-27**|**Handbook on Leveraging Lines for Two-View Relative Pose Estimation**|Petr Hruby et.al.|[2309.16040](http://arxiv.org/abs/2309.16040)|null|
+|**2023-09-27**|**Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature**|Shengze Jin et.al.|[2309.16023](http://arxiv.org/abs/2309.16023)|null|
 |**2023-09-27**|**Analysis on Multi-robot Relative 6-DOF Pose Estimation Error Based on UWB Range**|Xinran Li et.al.|[2309.15367](http://arxiv.org/abs/2309.15367)|null|
 |**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865](http://arxiv.org/abs/2309.14865)|null|
 |**2023-09-26**|**Learning Vision-Based Bipedal Locomotion for Challenging Terrain**|Helei Duan et.al.|[2309.14594](http://arxiv.org/abs/2309.14594)|null|
@@ -424,6 +432,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351](http://arxiv.org/abs/2309.16351)|**[link](https://github.com/mohwald/gandtr)**|
+|**2023-09-28**|**FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding**|Pengxiang Wu et.al.|[2309.16249](http://arxiv.org/abs/2309.16249)|**[link](https://github.com/pxiangwu/forb)**|
+|**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137](http://arxiv.org/abs/2309.16137)|null|
+|**2023-09-27**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|Vicente Vivanco Cepeda et.al.|[2309.16020](http://arxiv.org/abs/2309.16020)|null|
 |**2023-09-27**|**Learning Dense Flow Field for Highly-accurate Cross-view Camera Localization**|Zhenbo Song et.al.|[2309.15556](http://arxiv.org/abs/2309.15556)|null|
 |**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999](http://arxiv.org/abs/2309.14999)|null|
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430](http://arxiv.org/abs/2309.13430)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
