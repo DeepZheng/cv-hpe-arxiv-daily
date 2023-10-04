@@ -26,6 +26,8 @@
  <details>
     <summary><a href=#2023-10>2023-10</a></summary>
     <ol><a href=#visual-localization>Visual Localization</a></ol>
+    <ol><a href=#pose-estimation>Pose Estimation</a></ol>
+    <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
  </details>
 </details>
 
@@ -333,6 +335,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|null|
+|**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897](http://arxiv.org/abs/2310.01897)|null|
+|**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410](http://arxiv.org/abs/2310.01410)|null|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
+|**2023-10-03**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|null|
+|**2023-09-30**|**Diff-DOPE: Differentiable Deep Object Pose Estimation**|Jonathan Tremblay et.al.|[2310.00463](http://arxiv.org/abs/2310.00463)|null|
+|**2023-09-29**|**Diver Identification Using Anthropometric Data Ratios for Underwater Multi-Human-Robot Collaboration**|Jungseok Hong et.al.|[2310.00146](http://arxiv.org/abs/2310.00146)|null|
+|**2023-09-29**|**Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation**|Zhuoran Yu et.al.|[2310.00099](http://arxiv.org/abs/2310.00099)|null|
 |**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143](http://arxiv.org/abs/2309.17143)|**[link](https://github.com/5k5000/cldetection2023)**|
 |**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964](http://arxiv.org/abs/2309.16964)|null|
 |**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634](http://arxiv.org/abs/2309.16634)|null|
@@ -413,6 +423,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
+|**2023-10-03**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
@@ -438,6 +450,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
+|**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351](http://arxiv.org/abs/2309.16351)|**[link](https://github.com/mohwald/gandtr)**|
@@ -481,6 +495,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
+|**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351](http://arxiv.org/abs/2309.16351)|**[link](https://github.com/mohwald/gandtr)**|
@@ -491,6 +507,40 @@
 |**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999](http://arxiv.org/abs/2309.14999)|null|
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430](http://arxiv.org/abs/2309.13430)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033](http://arxiv.org/abs/2309.12033)|null|
+
+<p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
+
+### Pose Estimation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|null|
+|**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897](http://arxiv.org/abs/2310.01897)|null|
+|**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410](http://arxiv.org/abs/2310.01410)|null|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
+|**2023-10-03**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|null|
+|**2023-09-30**|**Diff-DOPE: Differentiable Deep Object Pose Estimation**|Jonathan Tremblay et.al.|[2310.00463](http://arxiv.org/abs/2310.00463)|null|
+|**2023-09-29**|**Diver Identification Using Anthropometric Data Ratios for Underwater Multi-Human-Robot Collaboration**|Jungseok Hong et.al.|[2310.00146](http://arxiv.org/abs/2310.00146)|null|
+|**2023-09-29**|**Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation**|Zhuoran Yu et.al.|[2310.00099](http://arxiv.org/abs/2310.00099)|null|
+|**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143](http://arxiv.org/abs/2309.17143)|**[link](https://github.com/5k5000/cldetection2023)**|
+|**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964](http://arxiv.org/abs/2309.16964)|null|
+
+<p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
+
+### Keypoint Detection
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
+|**2023-10-03**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|null|
+|**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
+|**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
+|**2023-09-17**|**CryoAlign: feature-based method for global and local 3D alignment of EM density maps**|Bintao He et.al.|[2309.09217](http://arxiv.org/abs/2309.09217)|null|
+|**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
+|**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 
 <p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
 
