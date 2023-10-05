@@ -293,7 +293,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|null|
+|**2023-10-04**|**Condition numbers in multiview geometry, instability in relative pose estimation, and RANSAC**|Hongyi Fan et.al.|[2310.02719](http://arxiv.org/abs/2310.02719)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897](http://arxiv.org/abs/2310.01897)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410](http://arxiv.org/abs/2310.01410)|null|
 |**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
@@ -404,6 +406,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650](http://arxiv.org/abs/2310.02650)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
@@ -447,6 +450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650](http://arxiv.org/abs/2310.02650)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
@@ -464,7 +468,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|null|
+|**2023-10-04**|**Condition numbers in multiview geometry, instability in relative pose estimation, and RANSAC**|Hongyi Fan et.al.|[2310.02719](http://arxiv.org/abs/2310.02719)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897](http://arxiv.org/abs/2310.01897)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410](http://arxiv.org/abs/2310.01410)|null|
 |**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
