@@ -488,7 +488,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398](http://arxiv.org/abs/2310.08398)|null|
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116](http://arxiv.org/abs/2310.08116)|null|
-|**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042](http://arxiv.org/abs/2310.08042)|null|
+|**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042](http://arxiv.org/abs/2310.08042)|**[link](https://github.com/cool-xuan/x-hrnet)**|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237](http://arxiv.org/abs/2310.07237)|null|
 |**2023-10-11**|**DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation**|Rong Wang et.al.|[2310.07206](http://arxiv.org/abs/2310.07206)|null|
