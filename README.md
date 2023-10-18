@@ -503,6 +503,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
+|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
+|**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
+|**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
+|**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
@@ -537,7 +542,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-12**|**Multi-Robot IMU Preintegration in the Presence of Bias and Communication Constraints**|Mohammed Ayman Shalaby et.al.|[2310.08686](http://arxiv.org/abs/2310.08686)|null|
+|**2023-10-15**|**AP $n$P: A Less-constrained P$n$ P Solver for Pose Estimation with Unknown Anisotropic Scaling or Focal Lengths**|Jiaxin Wei et.al.|[2310.09982](http://arxiv.org/abs/2310.09982)|**[link](https://github.com/goldoak/APnP)**|
+|**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956](http://arxiv.org/abs/2310.09956)|null|
+|**2023-10-15**|**Socially reactive navigation models for mobile robots in dynamic environments**|Ricarte Ribeiro et.al.|[2310.09916](http://arxiv.org/abs/2310.09916)|null|
+|**2023-10-15**|**MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection**|David C. Jeong et.al.|[2310.09757](http://arxiv.org/abs/2310.09757)|null|
+|**2023-10-16**|**IMU Preintegration for Multi-Robot Systems in the Presence of Bias and Communication Constraints**|Mohammed Ayman Shalaby et.al.|[2310.08686](http://arxiv.org/abs/2310.08686)|null|
 |**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398](http://arxiv.org/abs/2310.08398)|null|
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116](http://arxiv.org/abs/2310.08116)|null|
 |**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042](http://arxiv.org/abs/2310.08042)|**[link](https://github.com/cool-xuan/x-hrnet)**|
