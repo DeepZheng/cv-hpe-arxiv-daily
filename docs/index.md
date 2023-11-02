@@ -456,6 +456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang et.al.|[2311.00230](http://arxiv.org/abs/2311.00230)|null|
 |**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
@@ -504,6 +505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401](http://arxiv.org/abs/2311.00401)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
 |**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293](http://arxiv.org/abs/2310.19293)|null|
@@ -586,6 +588,38 @@ layout: default
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
+
+## 2023-11
+
+### Pose Estimation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401](http://arxiv.org/abs/2311.00401)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
+|**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293](http://arxiv.org/abs/2310.19293)|null|
+|**2023-10-29**|**Distributed Nonlinear Filtering using Triangular Transport Maps**|Daniel Grange et.al.|[2310.19000](http://arxiv.org/abs/2310.19000)|null|
+|**2023-10-29**|**TIC-TAC: A Framework To Learn And Evaluate Your Covariance**|Megh Shukla et.al.|[2310.18953](http://arxiv.org/abs/2310.18953)|**[link](https://github.com/vita-epfl/TIC-TAC)**|
+|**2023-10-29**|**Improving Multi-Person Pose Tracking with A Confidence Network**|Zehua Fu et.al.|[2310.18920](http://arxiv.org/abs/2310.18920)|null|
+|**2023-10-29**|**HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration**|Weiyi Xue et.al.|[2310.18874](http://arxiv.org/abs/2310.18874)|null|
+|**2023-10-27**|**ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation**|Michael Zechmair et.al.|[2310.18009](http://arxiv.org/abs/2310.18009)|null|
+|**2023-10-26**|**Learning Extrinsic Dexterity with Parameterized Manipulation Primitives**|Shih-Min Yang et.al.|[2310.17785](http://arxiv.org/abs/2310.17785)|null|
+
+### Visual Localization
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang et.al.|[2311.00230](http://arxiv.org/abs/2311.00230)|null|
+|**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
+|**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
+|**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
+|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299](http://arxiv.org/abs/2310.16299)|null|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
+|**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
+|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
+|**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
+|**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
