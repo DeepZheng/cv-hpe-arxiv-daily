@@ -650,6 +650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
@@ -679,6 +680,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028](http://arxiv.org/abs/2311.12028)|null|
+|**2023-11-20**|**SniffyArt: The Dataset of Smelling Persons**|Mathias Zinnen et.al.|[2311.11888](http://arxiv.org/abs/2311.11888)|null|
+|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808](http://arxiv.org/abs/2311.11808)|null|
+|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125](http://arxiv.org/abs/2311.11125)|null|
+|**2023-11-18**|**Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment**|Parth Rawal et.al.|[2311.11039](http://arxiv.org/abs/2311.11039)|null|
+|**2023-11-18**|**Multiple View Geometry Transformers for 3D Human Pose Estimation**|Ziwei Liao et.al.|[2311.10983](http://arxiv.org/abs/2311.10983)|null|
+|**2023-11-18**|**Jenga Stacking Based on 6D Pose Estimation for Architectural Form Finding Process**|Zixun Huang et.al.|[2311.10918](http://arxiv.org/abs/2311.10918)|null|
 |**2023-11-17**|**BiHRNet: A Binary high-resolution network for Human Pose Estimation**|Zhicheng Zhang et.al.|[2311.10296](http://arxiv.org/abs/2311.10296)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034](http://arxiv.org/abs/2311.10034)|null|
 |**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887](http://arxiv.org/abs/2311.09887)|null|
@@ -729,6 +737,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
+|**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
 |**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
@@ -755,6 +765,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
