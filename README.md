@@ -682,6 +682,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation**|Or Hirschorn et.al.|[2311.17891](http://arxiv.org/abs/2311.17891)|**[link](https://github.com/orhir/PoseAnything)**|
+|**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754](http://arxiv.org/abs/2311.17754)|null|
+|**2023-11-29**|**PViT-6D: Overclocking Vision Transformers for 6D Pose Estimation with Confidence-Level Prediction and Pose Tokens**|Sebastian Stapf et.al.|[2311.17504](http://arxiv.org/abs/2311.17504)|null|
+|**2023-11-28**|**On the Calibration of Human Pose Estimation**|Kerui Gu et.al.|[2311.17105](http://arxiv.org/abs/2311.17105)|null|
 |**2023-11-28**|**Telling Left from Right: Identifying Geometry-Aware Semantic Correspondence**|Junyi Zhang et.al.|[2311.17034](http://arxiv.org/abs/2311.17034)|null|
 |**2023-11-28**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552](http://arxiv.org/abs/2311.16552)|null|
 |**2023-11-28**|**Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement**|Jian Wang et.al.|[2311.16495](http://arxiv.org/abs/2311.16495)|null|
@@ -758,6 +762,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
