@@ -793,6 +793,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
+|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162](http://arxiv.org/abs/2312.13162)|null|
 |**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
 |**2023-12-18**|**Underwater Robot Pose Estimation Using Acoustic Methods and Intermittent Position Measurements at the Surface**|Vicu-Mihalis Maer et.al.|[2312.11401](http://arxiv.org/abs/2312.11401)|null|
@@ -856,7 +859,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-20**|**Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition**|Bruno Arcanjo et.al.|[2312.12995](http://arxiv.org/abs/2312.12995)|null|
-|**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|null|
+|**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|**[link](https://github.com/chunmeifeng/vqa4cir)**|
 |**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616](http://arxiv.org/abs/2312.10616)|**[link](https://github.com/sijieaaa/distilvpr)**|
