@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 ## 2023-7
 
 ### Pose Estimation
@@ -760,6 +760,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
@@ -792,15 +793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162](http://arxiv.org/abs/2312.13162)|null|
 |**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
 |**2023-12-18**|**Underwater Robot Pose Estimation Using Acoustic Methods and Intermittent Position Measurements at the Surface**|Vicu-Mihalis Maer et.al.|[2312.11401](http://arxiv.org/abs/2312.11401)|null|
-|**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758](http://arxiv.org/abs/2312.10758)|null|
+|**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758](http://arxiv.org/abs/2312.10758)|**[link](https://github.com/anxq/sharpose)**|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195](http://arxiv.org/abs/2312.10195)|null|
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031](http://arxiv.org/abs/2312.09031)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005](http://arxiv.org/abs/2312.09005)|null|
 |**2023-12-14**|**CattleEyeView: A Multi-task Top-down View Cattle Dataset for Smarter Precision Livestock Farming**|Kian Eng Ong et.al.|[2312.08764](http://arxiv.org/abs/2312.08764)|**[link](https://github.com/animaleyeq/cattleeyeview)**|
-|**2023-12-13**|**PnP for Two-Dimensional Pose Estimation**|Joshua Wang et.al.|[2312.08488](http://arxiv.org/abs/2312.08488)|null|
+|**2023-12-20**|**PnP for Two-Dimensional Pose Estimation**|Joshua Wang et.al.|[2312.08488](http://arxiv.org/abs/2312.08488)|null|
 |**2023-12-13**|**Pose and shear-based tactile servoing**|John Lloyd et.al.|[2312.08411](http://arxiv.org/abs/2312.08411)|null|
 |**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344](http://arxiv.org/abs/2312.08344)|null|
 |**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268](http://arxiv.org/abs/2312.08268)|null|
@@ -853,8 +855,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition**|Bruno Arcanjo et.al.|[2312.12995](http://arxiv.org/abs/2312.12995)|null|
 |**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|null|
-|**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|null|
+|**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616](http://arxiv.org/abs/2312.10616)|**[link](https://github.com/sijieaaa/distilvpr)**|
 |**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
@@ -889,6 +892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
