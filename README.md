@@ -41,6 +41,12 @@
     <ol><a href=#visual-localization>Visual Localization</a></ol>
     <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
  </details>
+ <details>
+    <summary><a href=#2024-1>2024-1</a></summary>
+    <ol><a href=#pose-estimation>Pose Estimation</a></ol>
+    <ol><a href=#visual-localization>Visual Localization</a></ol>
+    <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
+ </details>
 </details>
 
 ## 2023-7
@@ -830,6 +836,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
@@ -868,6 +875,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|null|
+|**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
+|**2024-01-01**|**Geometry Depth Consistency in RGBD Relative Pose Estimation**|Sourav Kumar et.al.|[2401.00639](http://arxiv.org/abs/2401.00639)|null|
+|**2023-12-30**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155](http://arxiv.org/abs/2401.00155)|null|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731](http://arxiv.org/abs/2312.17731)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
@@ -952,6 +964,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
+|**2023-12-31**|**Multi-Granularity Representation Learning for Sketch-based Dynamic Face Image Retrieval**|Liang Wang et.al.|[2401.00371](http://arxiv.org/abs/2401.00371)|**[link](https://github.com/ddw2aigroup2cqupt/mgrl)**|
+|**2023-12-29**|**Bayesian Recursive Information Optical Imaging: A Ghost Imaging Scheme Based on Bayesian Filtering**|Long-Kun Du et.al.|[2401.00032](http://arxiv.org/abs/2401.00032)|null|
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
 |**2023-12-26**|**Recursive Distillation for Open-Set Distributed Robot Localization**|Kenta Tsukahara et.al.|[2312.15897](http://arxiv.org/abs/2312.15897)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
@@ -995,6 +1010,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
@@ -1012,6 +1028,59 @@
 |**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
+
+<p align=right>(<a href=#updated-on-20240103>back to top</a>)</p>
+
+## 2024-1
+
+### Pose Estimation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|null|
+|**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
+|**2024-01-01**|**Geometry Depth Consistency in RGBD Relative Pose Estimation**|Sourav Kumar et.al.|[2401.00639](http://arxiv.org/abs/2401.00639)|null|
+|**2023-12-30**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155](http://arxiv.org/abs/2401.00155)|null|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
+|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731](http://arxiv.org/abs/2312.17731)|null|
+|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
+|**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
+|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787](http://arxiv.org/abs/2312.16787)|null|
+
+<p align=right>(<a href=#updated-on-20240103>back to top</a>)</p>
+
+### Visual Localization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
+|**2023-12-31**|**Multi-Granularity Representation Learning for Sketch-based Dynamic Face Image Retrieval**|Liang Wang et.al.|[2401.00371](http://arxiv.org/abs/2401.00371)|**[link](https://github.com/ddw2aigroup2cqupt/mgrl)**|
+|**2023-12-29**|**Bayesian Recursive Information Optical Imaging: A Ghost Imaging Scheme Based on Bayesian Filtering**|Long-Kun Du et.al.|[2401.00032](http://arxiv.org/abs/2401.00032)|null|
+|**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
+|**2023-12-26**|**Recursive Distillation for Open-Set Distributed Robot Localization**|Kenta Tsukahara et.al.|[2312.15897](http://arxiv.org/abs/2312.15897)|null|
+|**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
+|**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242](http://arxiv.org/abs/2312.15242)|null|
+|**2023-12-20**|**Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition**|Bruno Arcanjo et.al.|[2312.12995](http://arxiv.org/abs/2312.12995)|null|
+|**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|**[link](https://github.com/chunmeifeng/vqa4cir)**|
+|**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
+
+<p align=right>(<a href=#updated-on-20240103>back to top</a>)</p>
+
+### Keypoint Detection
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
+|**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
+|**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
+|**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
+|**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
+|**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
+|**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
+|**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
+|**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 
 <p align=right>(<a href=#updated-on-20240103>back to top</a>)</p>
 
