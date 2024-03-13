@@ -1238,6 +1238,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Uncertainty Quantification with Deep Ensembles for 6D Object Pose Estimation**|Kira Wursthorn et.al.|[2403.07741](http://arxiv.org/abs/2403.07741)|null|
+|**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[2403.07535](http://arxiv.org/abs/2403.07535)|null|
+|**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437](http://arxiv.org/abs/2403.07437)|null|
+|**2024-03-12**|**Monocular Microscope to CT Registration using Pose Estimation of the Incus for Augmented Reality Cochlear Implant Surgery**|Yike Zhang et.al.|[2403.07219](http://arxiv.org/abs/2403.07219)|null|
 |**2024-03-11**|**Real-Time Simulated Avatar from Head-Mounted Sensors**|Zhengyi Luo et.al.|[2403.06862](http://arxiv.org/abs/2403.06862)|null|
 |**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577](http://arxiv.org/abs/2403.06577)|null|
 |**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164](http://arxiv.org/abs/2403.06164)|null|
@@ -1274,6 +1278,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
+|**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
+|**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
+|**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203](http://arxiv.org/abs/2403.07203)|null|
 |**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758](http://arxiv.org/abs/2403.06758)|**[link](https://github.com/gmberton/earthloc)**|
 |**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600](http://arxiv.org/abs/2403.06600)|null|
 |**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|null|
