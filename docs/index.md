@@ -1238,6 +1238,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990](http://arxiv.org/abs/2403.09990)|null|
+|**2024-03-14**|**ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Image**|Fangqiang Ding et.al.|[2403.09871](http://arxiv.org/abs/2403.09871)|null|
+|**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799](http://arxiv.org/abs/2403.09799)|null|
 |**2024-03-14**|**Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**|Sebastián Barbas Laina et.al.|[2403.09596](http://arxiv.org/abs/2403.09596)|null|
 |**2024-03-14**|**Improving Real-Time Omnidirectional 3D Multi-Person Human Pose Estimation with People Matching and Unsupervised 2D-3D Lifting**|Pawel Knap et.al.|[2403.09437](http://arxiv.org/abs/2403.09437)|null|
 |**2024-03-14**|**LM2D: Lyrics- and Music-Driven Dance Synthesis**|Wenjie Yin et.al.|[2403.09407](http://arxiv.org/abs/2403.09407)|null|
@@ -1288,6 +1291,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
+|**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
