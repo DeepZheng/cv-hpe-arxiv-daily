@@ -1078,6 +1078,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
@@ -1220,6 +1221,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
@@ -1244,6 +1246,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Latent Embedding Clustering for Occlusion Robust Head Pose Estimation**|José Celestino et.al.|[2403.20251](http://arxiv.org/abs/2403.20251)|null|
+|**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031](http://arxiv.org/abs/2403.20031)|null|
+|**2024-03-29**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791](http://arxiv.org/abs/2403.18791)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
@@ -1350,6 +1355,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964](http://arxiv.org/abs/2403.19964)|null|
+|**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787](http://arxiv.org/abs/2403.19787)|**[link](https://github.com/ga1i13o/jist)**|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/abs/2403.18281)|null|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
@@ -1403,6 +1410,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
