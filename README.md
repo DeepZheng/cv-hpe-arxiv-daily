@@ -59,6 +59,10 @@
     <ol><a href=#visual-localization>Visual Localization</a></ol>
     <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
  </details>
+ <details>
+    <summary><a href=#2024-4>2024-4</a></summary>
+    <ol><a href=#pose-estimation>Pose Estimation</a></ol>
+ </details>
 </details>
 
 ## 2023-7
@@ -1356,7 +1360,7 @@
 |---|---|---|---|---|
 |**2024-03-29**|**Latent Embedding Clustering for Occlusion Robust Head Pose Estimation**|José Celestino et.al.|[2403.20251](http://arxiv.org/abs/2403.20251)|null|
 |**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031](http://arxiv.org/abs/2403.20031)|null|
-|**2024-03-29**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
+|**2024-04-01**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791](http://arxiv.org/abs/2403.18791)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
@@ -1537,6 +1541,25 @@
 |**2024-03-22**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
+
+<p align=right>(<a href=#updated-on-20240402>back to top</a>)</p>
+
+## 2024-4
+
+### Pose Estimation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-03-29**|**Latent Embedding Clustering for Occlusion Robust Head Pose Estimation**|José Celestino et.al.|[2403.20251](http://arxiv.org/abs/2403.20251)|null|
+|**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031](http://arxiv.org/abs/2403.20031)|null|
+|**2024-04-01**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
+|**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
+|**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791](http://arxiv.org/abs/2403.18791)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
+|**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
+|**2024-03-26**|**Mathematical Foundation and Corrections for Full Range Head Pose Estimation**|Huei-Chung Hu et.al.|[2403.18104](http://arxiv.org/abs/2403.18104)|null|
+|**2024-03-26**|**EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation**|Chenhongyi Yang et.al.|[2403.18080](http://arxiv.org/abs/2403.18080)|null|
+|**2024-03-26**|**A Survey on 3D Egocentric Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2403.17893](http://arxiv.org/abs/2403.17893)|null|
+|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|**[link](https://github.com/hrishavbakulbarua/gta-hdr)**|
 
 <p align=right>(<a href=#updated-on-20240402>back to top</a>)</p>
 
