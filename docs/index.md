@@ -1368,6 +1368,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
+|**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587](http://arxiv.org/abs/2404.01587)|**[link](https://github.com/nubot-nudt/tscm)**|
 |**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524](http://arxiv.org/abs/2404.01524)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
@@ -1452,6 +1454,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705](http://arxiv.org/abs/2404.05705)|null|
+|**2024-04-08**|**Learning a Category-level Object Pose Estimator without Pose Annotations**|Fengrui Tian et.al.|[2404.05626](http://arxiv.org/abs/2404.05626)|null|
+|**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|
+|**2024-04-08**|**Two Hands Are Better Than One: Resolving Hand to Hand Intersections via Occupancy Networks**|Maksym Ivashechkin et.al.|[2404.05414](http://arxiv.org/abs/2404.05414)|null|
+|**2024-04-08**|**STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs**|Kush Hari et.al.|[2404.05151](http://arxiv.org/abs/2404.05151)|null|
 |**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193](http://arxiv.org/abs/2404.04193)|null|
 |**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518](http://arxiv.org/abs/2404.03518)|**[link](https://github.com/martyrpenink/sdpose)**|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
@@ -1480,6 +1487,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
+|**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587](http://arxiv.org/abs/2404.01587)|**[link](https://github.com/nubot-nudt/tscm)**|
 |**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524](http://arxiv.org/abs/2404.01524)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
