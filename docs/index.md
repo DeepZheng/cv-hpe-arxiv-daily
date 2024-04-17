@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 ## 2023-7
 
 ### Pose Estimation
@@ -1502,7 +1502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-15**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
+|**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
 |**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|**[link](https://github.com/tfburns/cdam)**|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
