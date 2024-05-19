@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 ## 2023-7
 
 ### Pose Estimation
@@ -1644,7 +1644,7 @@ layout: default
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-14**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
-|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|null|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|**[link](https://github.com/luoxubo/jointloc)**|
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211](http://arxiv.org/abs/2405.04211)|null|
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
@@ -1672,7 +1672,7 @@ layout: default
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483](http://arxiv.org/abs/2405.08483)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801](http://arxiv.org/abs/2405.07801)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
-|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|null|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|**[link](https://github.com/luoxubo/jointloc)**|
 |**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027](http://arxiv.org/abs/2405.07027)|null|
 |**2024-05-11**|**AHPPEBot: Autonomous Robot for Tomato Harvesting based on Phenotyping and Pose Estimation**|Xingxu Li et.al.|[2405.06959](http://arxiv.org/abs/2405.06959)|null|
 |**2024-05-10**|**CasCalib: Cascaded Calibration for Motion Capture from Sparse Unsynchronized Cameras**|James Tang et.al.|[2405.06845](http://arxiv.org/abs/2405.06845)|**[link](https://github.com/jamestang1998/cascalib)**|
