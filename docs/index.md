@@ -1891,6 +1891,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
+|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
@@ -1946,6 +1948,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
+|**2024-07-07**|**On the power of data augmentation for head pose estimation**|Michael Welter et.al.|[2407.05357](http://arxiv.org/abs/2407.05357)|null|
+|**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283](http://arxiv.org/abs/2407.05283)|**[link](https://github.com/fengyi233/SCIPaD)**|
 |**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384](http://arxiv.org/abs/2407.04384)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
 |**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041](http://arxiv.org/abs/2407.04041)|null|
 |**2024-07-04**|**Markerless Multi-view 3D Human Pose Estimation: a survey**|Ana Filipa Rodrigues Nogueira et.al.|[2407.03817](http://arxiv.org/abs/2407.03817)|null|
@@ -1967,6 +1972,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
+|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
