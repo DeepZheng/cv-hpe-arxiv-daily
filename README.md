@@ -2106,6 +2106,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901](http://arxiv.org/abs/2407.10901)|null|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782](http://arxiv.org/abs/2407.10782)|null|
+|**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
+|**2024-07-15**|**GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation**|Haonan Wang et.al.|[2407.10756](http://arxiv.org/abs/2407.10756)|null|
+|**2024-07-15**|**Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs**|Nicholas Carlotti et.al.|[2407.10661](http://arxiv.org/abs/2407.10661)|null|
+|**2024-07-15**|**Deep-Learning-Based Markerless Pose Estimation Systems in Gait Analysis: DeepLabCut Custom Training and the Refinement Function**|Giulia Panconi et.al.|[2407.10590](http://arxiv.org/abs/2407.10590)|null|
+|**2024-07-14**|**3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects**|Weiming Zhi et.al.|[2407.10331](http://arxiv.org/abs/2407.10331)|null|
+|**2024-07-14**|**psifx -- Psychological and Social Interactions Feature Extraction Package**|Guillaume Rochette et.al.|[2407.10266](http://arxiv.org/abs/2407.10266)|null|
+|**2024-07-14**|**PAFUSE: Part-based Diffusion for 3D Whole-Body Pose Estimation**|Nermin Samet et.al.|[2407.10220](http://arxiv.org/abs/2407.10220)|null|
+|**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-12**|**iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning**|Tom Fischer et.al.|[2407.09271](http://arxiv.org/abs/2407.09271)|null|
 |**2024-07-12**|**HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation**|Manuel Birlo et.al.|[2407.09215](http://arxiv.org/abs/2407.09215)|null|
 |**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909](http://arxiv.org/abs/2407.08909)|null|
@@ -2143,6 +2153,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
+|**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**|J. J. Cabrera et.al.|[2407.10596](http://arxiv.org/abs/2407.10596)|**[link](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**|
+|**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 |**2024-07-12**|**Are They the Same Picture? Adapting Concept Bottleneck Models for Human-AI Collaboration in Image Retrieval**|Vaibhav Balloli et.al.|[2407.08908](http://arxiv.org/abs/2407.08908)|**[link](https://github.com/realize-lab/chair)**|
 |**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162](http://arxiv.org/abs/2407.08162)|**[link](https://github.com/QVPR/aarapsiproject)**|
 |**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|null|
