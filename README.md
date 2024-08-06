@@ -83,6 +83,11 @@
     <ol><a href=#visual-localization>Visual Localization</a></ol>
     <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
  </details>
+ <details>
+    <summary><a href=#2024-8>2024-8</a></summary>
+    <ol><a href=#pose-estimation>Pose Estimation</a></ol>
+    <ol><a href=#visual-localization>Visual Localization</a></ol>
+ </details>
 </details>
 
 ## 2023-7
@@ -2111,6 +2116,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Joint-Motion Mutual Learning for Pose Estimation in Videos**|Sifan Wu et.al.|[2408.02285](http://arxiv.org/abs/2408.02285)|null|
+|**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
+|**2024-08-04**|**Generalized Maximum Likelihood Estimation for Perspective-n-Point Problem**|Tian Zhan et.al.|[2408.01945](http://arxiv.org/abs/2408.01945)|null|
+|**2024-08-03**|**MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions**|Rahul Islam et.al.|[2408.01850](http://arxiv.org/abs/2408.01850)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
+|**2024-08-03**|**Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality**|Leina Elansary et.al.|[2408.01728](http://arxiv.org/abs/2408.01728)|null|
+|**2024-08-03**|**Stimulating Imagination: Towards General-purpose Object Rearrangement**|Jianyang Wu et.al.|[2408.01655](http://arxiv.org/abs/2408.01655)|null|
+|**2024-08-02**|**Full-range Head Pose Geometric Data Augmentations**|Huei-Chung Hu et.al.|[2408.01566](http://arxiv.org/abs/2408.01566)|null|
 |**2024-07-31**|**Adapting Skills to Novel Grasps: A Self-Supervised Approach**|Georgios Papagiannis et.al.|[2408.00178](http://arxiv.org/abs/2408.00178)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-30**|**HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation**|Wencan Cheng et.al.|[2407.20542](http://arxiv.org/abs/2407.20542)|**[link](https://github.com/cwc1260/handdagt)**|
@@ -2192,6 +2206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
@@ -2252,6 +2268,42 @@
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
 |**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
+
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+
+## 2024-8
+
+### Pose Estimation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-08-05**|**Joint-Motion Mutual Learning for Pose Estimation in Videos**|Sifan Wu et.al.|[2408.02285](http://arxiv.org/abs/2408.02285)|null|
+|**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
+|**2024-08-04**|**Generalized Maximum Likelihood Estimation for Perspective-n-Point Problem**|Tian Zhan et.al.|[2408.01945](http://arxiv.org/abs/2408.01945)|null|
+|**2024-08-03**|**MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions**|Rahul Islam et.al.|[2408.01850](http://arxiv.org/abs/2408.01850)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
+|**2024-08-03**|**Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality**|Leina Elansary et.al.|[2408.01728](http://arxiv.org/abs/2408.01728)|null|
+|**2024-08-03**|**Stimulating Imagination: Towards General-purpose Object Rearrangement**|Jianyang Wu et.al.|[2408.01655](http://arxiv.org/abs/2408.01655)|null|
+|**2024-08-02**|**Full-range Head Pose Geometric Data Augmentations**|Huei-Chung Hu et.al.|[2408.01566](http://arxiv.org/abs/2408.01566)|null|
+|**2024-07-31**|**Adapting Skills to Novel Grasps: A Self-Supervised Approach**|Georgios Papagiannis et.al.|[2408.00178](http://arxiv.org/abs/2408.00178)|null|
+
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+
+### Visual Localization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
+|**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
+|**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
+|**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
+|**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
+|**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
+|**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
+|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
 
 <p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
