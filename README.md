@@ -2206,6 +2206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
@@ -2277,6 +2278,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225](http://arxiv.org/abs/2408.03225)|null|
+|**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168](http://arxiv.org/abs/2408.03168)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
+|**2024-08-06**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
+|**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855](http://arxiv.org/abs/2408.02855)|null|
 |**2024-08-05**|**Joint-Motion Mutual Learning for Pose Estimation in Videos**|Sifan Wu et.al.|[2408.02285](http://arxiv.org/abs/2408.02285)|null|
 |**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
 |**2024-08-04**|**Generalized Maximum Likelihood Estimation for Perspective-n-Point Problem**|Tian Zhan et.al.|[2408.01945](http://arxiv.org/abs/2408.01945)|null|
@@ -2294,6 +2300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
