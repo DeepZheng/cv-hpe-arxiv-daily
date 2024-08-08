@@ -1,4 +1,4 @@
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 <details>
   <summary>Time Line</summary>
  <details>
@@ -124,7 +124,7 @@
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116](http://arxiv.org/abs/2307.12116)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
 |**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106](http://arxiv.org/abs/2307.12106)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -153,7 +153,7 @@
 |**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
 |**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -179,7 +179,7 @@
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938](http://arxiv.org/abs/2306.01938)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2023-6
 
@@ -203,7 +203,7 @@
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938](http://arxiv.org/abs/2306.01938)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2023-8
 
@@ -296,7 +296,7 @@
 |**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117](http://arxiv.org/abs/2307.16117)|null|
 |**2023-07-29**|**Iterative Graph Filtering Network for 3D Human Pose Estimation**|Zaedul Islam et.al.|[2307.16074](http://arxiv.org/abs/2307.16074)|**[link](https://github.com/zaedulislam/gs-net)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -347,7 +347,7 @@
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -386,7 +386,7 @@
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2023-9
 
@@ -478,7 +478,7 @@
 |**2023-08-29**|**Spatio-temporal MLP-graph network for 3D human pose estimation**|Tanvir Hassan et.al.|[2308.15313](http://arxiv.org/abs/2308.15313)|**[link](https://github.com/nies14/spatio-temporal-mlp-graph)**|
 |**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049](http://arxiv.org/abs/2308.15049)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -511,7 +511,7 @@
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-09-03**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -557,7 +557,7 @@
 |**2023-08-26**|**Learning Efficient Representations for Image-Based Patent Retrieval**|Hongsong Wang et.al.|[2308.13749](http://arxiv.org/abs/2308.13749)|null|
 |**2023-08-25**|**Enhancing Landmark Detection in Cluttered Real-World Scenarios with Vision Transformers**|Mohammad Javad Rajabi et.al.|[2308.13671](http://arxiv.org/abs/2308.13671)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2023-10
 
@@ -618,7 +618,7 @@
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430](http://arxiv.org/abs/2309.13430)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033](http://arxiv.org/abs/2309.12033)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Pose Estimation
 
@@ -697,7 +697,7 @@
 |**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143](http://arxiv.org/abs/2309.17143)|**[link](https://github.com/5k5000/cldetection2023)**|
 |**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964](http://arxiv.org/abs/2309.16964)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -727,7 +727,7 @@
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2023-11
 
@@ -822,7 +822,7 @@
 |**2023-10-27**|**ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation**|Michael Zechmair et.al.|[2310.18009](http://arxiv.org/abs/2310.18009)|null|
 |**2023-10-26**|**Learning Extrinsic Dexterity with Parameterized Manipulation Primitives**|Shih-Min Yang et.al.|[2310.17785](http://arxiv.org/abs/2310.17785)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -871,7 +871,7 @@
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -908,7 +908,7 @@
 |**2023-10-22**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|**[link](https://github.com/ut-amrl/obvi-slam)**|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2023-12
 
@@ -1006,7 +1006,7 @@
 |**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754](http://arxiv.org/abs/2311.17754)|null|
 |**2023-11-29**|**PViT-6D: Overclocking Vision Transformers for 6D Pose Estimation with Confidence-Level Prediction and Pose Tokens**|Sebastian Stapf et.al.|[2311.17504](http://arxiv.org/abs/2311.17504)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -1060,7 +1060,7 @@
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -1093,7 +1093,7 @@
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-1
 
@@ -1156,7 +1156,7 @@
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787](http://arxiv.org/abs/2312.16787)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -1201,7 +1201,7 @@
 |**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|**[link](https://github.com/chunmeifeng/vqa4cir)**|
 |**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -1230,7 +1230,7 @@
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-2
 
@@ -1304,7 +1304,7 @@
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -1350,7 +1350,7 @@
 |**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082](http://arxiv.org/abs/2401.13082)|null|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076](http://arxiv.org/abs/2401.13076)|**[link](https://github.com/leomingyangli/semanticslam)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -1379,7 +1379,7 @@
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-3
 
@@ -1505,7 +1505,7 @@
 |**2024-02-26**|**DRSI-Net: Dual-Residual Spatial Interaction Network for Multi-Person Pose Estimation**|Shang Wu et.al.|[2402.16640](http://arxiv.org/abs/2402.16640)|null|
 |**2024-02-26**|**GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video**|Xinqi Liu et.al.|[2402.16607](http://arxiv.org/abs/2402.16607)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -1575,7 +1575,7 @@
 |**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159](http://arxiv.org/abs/2402.17159)|null|
 |**2024-02-25**|**Deep Homography Estimation for Visual Place Recognition**|Feng Lu et.al.|[2402.16086](http://arxiv.org/abs/2402.16086)|**[link](https://github.com/lu-feng/dhe-vpr)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -1606,7 +1606,7 @@
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-4
 
@@ -1696,7 +1696,7 @@
 |**2024-03-26**|**A Survey on 3D Egocentric Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2403.17893](http://arxiv.org/abs/2403.17893)|null|
 |**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|**[link](https://github.com/hrishavbakulbarua/gta-hdr)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -1755,7 +1755,7 @@
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|**[link](https://github.com/beichenzbc/long-clip)**|
 |**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152](http://arxiv.org/abs/2403.15152)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -1784,7 +1784,7 @@
 |**2024-03-05**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-5
 
@@ -1838,7 +1838,7 @@
 |**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875](http://arxiv.org/abs/2404.15875)|**[link](https://github.com/haokunwen/dqu-cir)**|
 |**2024-04-24**|**DVF: Advancing Robust and Accurate Fine-Grained Image Retrieval with Retrieval Guidelines**|Xin Jiang et.al.|[2404.15771](http://arxiv.org/abs/2404.15771)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Pose Estimation
 
@@ -1920,7 +1920,7 @@
 |**2024-04-27**|**Hybrid 3D Human Pose Estimation with Monocular Video and Sparse IMUs**|Yiming Bao et.al.|[2404.17837](http://arxiv.org/abs/2404.17837)|null|
 |**2024-04-26**|**Localization Through Particle Filter Powered Neural Network Estimated Monocular Camera Poses**|Yi Shen et.al.|[2404.17685](http://arxiv.org/abs/2404.17685)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -1951,7 +1951,7 @@
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-6
 
@@ -1982,7 +1982,7 @@
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Pose Estimation
 
@@ -2051,7 +2051,7 @@
 |**2024-05-29**|**Real-Time Dynamic Robot-Assisted Hand-Object Interaction via Motion Primitives**|Mingqi Yuan et.al.|[2405.19531](http://arxiv.org/abs/2405.19531)|null|
 |**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173](http://arxiv.org/abs/2405.19173)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -2108,7 +2108,7 @@
 |**2024-05-30**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149](http://arxiv.org/abs/2405.19149)|null|
 |**2024-05-29**|**SketchTriplet: Self-Supervised Scenarized Sketch-Text-Image Triplet Generation**|Zhenbei Wu et.al.|[2405.18801](http://arxiv.org/abs/2405.18801)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-7
 
@@ -2200,7 +2200,7 @@
 |**2024-06-28**|**Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review**|Moseli Mots'oehli et.al.|[2407.00252](http://arxiv.org/abs/2407.00252)|null|
 |**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726](http://arxiv.org/abs/2406.19726)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -2246,7 +2246,7 @@
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Keypoint Detection
 
@@ -2270,7 +2270,7 @@
 |**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
 |**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## 2024-8
 
@@ -2281,7 +2281,7 @@
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225](http://arxiv.org/abs/2408.03225)|null|
 |**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168](http://arxiv.org/abs/2408.03168)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
-|**2024-08-06**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
+|**2024-08-07**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
 |**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855](http://arxiv.org/abs/2408.02855)|null|
 |**2024-08-05**|**Joint-Motion Mutual Learning for Pose Estimation in Videos**|Sifan Wu et.al.|[2408.02285](http://arxiv.org/abs/2408.02285)|null|
 |**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
@@ -2294,7 +2294,7 @@
 |**2024-08-02**|**Full-range Head Pose Geometric Data Augmentations**|Huei-Chung Hu et.al.|[2408.01566](http://arxiv.org/abs/2408.01566)|null|
 |**2024-07-31**|**Adapting Skills to Novel Grasps: A Self-Supervised Approach**|Georgios Papagiannis et.al.|[2408.00178](http://arxiv.org/abs/2408.00178)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ### Visual Localization
 
@@ -2312,7 +2312,7 @@
 |**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
