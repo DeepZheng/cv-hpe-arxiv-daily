@@ -2043,6 +2043,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
+|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
@@ -2111,6 +2113,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336](http://arxiv.org/abs/2408.06336)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981](http://arxiv.org/abs/2408.05981)|null|
+|**2024-08-12**|**PAFormer: Part Aware Transformer for Person Re-identification**|Hyeono Jung et.al.|[2408.05918](http://arxiv.org/abs/2408.05918)|null|
+|**2024-08-11**|**SABER-6D: Shape Representation Based Implicit Object Pose Estimation**|Shishir Reddy Vutukur et.al.|[2408.05867](http://arxiv.org/abs/2408.05867)|null|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
+|**2024-08-10**|**Anticipation through Head Pose Estimation: a preliminary study**|Federico Figari Tomenotti et.al.|[2408.05516](http://arxiv.org/abs/2408.05516)|null|
 |**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979](http://arxiv.org/abs/2408.04979)|null|
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225](http://arxiv.org/abs/2408.03225)|**[link](https://github.com/zibin6/lopet)**|
@@ -2133,6 +2141,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
+|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
