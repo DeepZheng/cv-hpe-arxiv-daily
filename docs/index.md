@@ -2256,6 +2256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
+|**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
+|**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095](http://arxiv.org/abs/2409.10095)|null|
+|**2024-09-15**|**Precise Pick-and-Place using Score-Based Diffusion Networks**|Shih-Wei Guo et.al.|[2409.09725](http://arxiv.org/abs/2409.09725)|null|
+|**2024-09-15**|**Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild**|Nie Lin et.al.|[2409.09714](http://arxiv.org/abs/2409.09714)|null|
+|**2024-09-15**|**Proximity operations of CubeSats via sensor fusion of ultra-wideband range measurements with rate gyroscopes, accelerometers and monocular vision**|Deep Parikh et.al.|[2409.09665](http://arxiv.org/abs/2409.09665)|null|
+|**2024-09-15**|**A Scalable Tabletop Satellite Automation Testbed:Design And Experiments**|Deep Parikh et.al.|[2409.09633](http://arxiv.org/abs/2409.09633)|null|
+|**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
+|**2024-09-14**|**Distributed Invariant Kalman Filter for Object-level Multi-robot Pose SLAM**|Haoying Li et.al.|[2409.09410](http://arxiv.org/abs/2409.09410)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769](http://arxiv.org/abs/2409.08769)|**[link](https://github.com/ybkurt/vift)**|
 |**2024-09-13**|**WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users**|Yunzhi Li et.al.|[2409.08494](http://arxiv.org/abs/2409.08494)|null|
 |**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|null|
@@ -2305,6 +2315,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
+|**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
+|**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|null|
 |**2024-09-12**|**Structured Pruning for Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2409.07834](http://arxiv.org/abs/2409.07834)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
