@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 ## 2023-7
 
 ### Pose Estimation
@@ -2094,7 +2094,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
+|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -2237,7 +2238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
+|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -2256,6 +2258,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**PseudoNeg-MAE: Self-Supervised Point Cloud Learning using Conditional Pseudo-Negative Embeddings**|Sutharsan Mahendren et.al.|[2409.15832](http://arxiv.org/abs/2409.15832)|null|
+|**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727](http://arxiv.org/abs/2409.15727)|null|
+|**2024-09-23**|**Framework for Robust Localization of UUVs and Mapping of Net Pens**|David Botta et.al.|[2409.15475](http://arxiv.org/abs/2409.15475)|null|
+|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054](http://arxiv.org/abs/2409.15054)|null|
+|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|null|
+|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723](http://arxiv.org/abs/2409.14723)|null|
+|**2024-09-22**|**Tactile Functasets: Neural Implicit Representations of Tactile Datasets**|Sikai Li et.al.|[2409.14592](http://arxiv.org/abs/2409.14592)|null|
+|**2024-09-22**|**AR Overlay: Training Image Pose Estimation on Curved Surface in a Synthetic Way**|Sining Huang et.al.|[2409.14577](http://arxiv.org/abs/2409.14577)|null|
+|**2024-09-22**|**DROP: Dexterous Reorientation via Online Planning**|Albert H. Li et.al.|[2409.14562](http://arxiv.org/abs/2409.14562)|null|
+|**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
 |**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|null|
 |**2024-09-18**|**End-to-End Probabilistic Geometry-Guided Regression for 6DoF Object Pose Estimation**|Thomas Pöllabauer et.al.|[2409.11819](http://arxiv.org/abs/2409.11819)|null|
 |**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661](http://arxiv.org/abs/2409.11661)|null|
@@ -2325,6 +2337,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang et.al.|[2409.15169](http://arxiv.org/abs/2409.15169)|null|
+|**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
+|**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
+|**2024-09-20**|**Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval**|Morris Florek et.al.|[2409.13513](http://arxiv.org/abs/2409.13513)|**[link](https://github.com/morrisfl/unifex)**|
 |**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|null|
 |**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
@@ -2363,7 +2379,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
+|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
