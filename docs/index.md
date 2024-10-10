@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 ## 2023-7
 
 ### Pose Estimation
@@ -2469,7 +2469,7 @@ layout: default
 |**2024-10-06**|**Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion**|Mehwish Ghafoor et.al.|[2410.04574](http://arxiv.org/abs/2410.04574)|**[link](https://github.com/mehwishg/dtf)**|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419](http://arxiv.org/abs/2410.04419)|null|
 |**2024-10-05**|**Test-Time Adaptation for Keypoint-Based Spacecraft Pose Estimation Based on Predicted-View Synthesis**|Juan Ignacio Bravo Pérez-Villar et.al.|[2410.04298](http://arxiv.org/abs/2410.04298)|**[link](https://github.com/jotabravo/spacecraft-tta)**|
-|**2024-10-05**|**A Framework for Reproducible Benchmarking and Performance Diagnosis of SLAM Systems**|Nikola Radulov et.al.|[2410.04242](http://arxiv.org/abs/2410.04242)|null|
+|**2024-10-05**|**A Framework for Reproducible Benchmarking and Performance Diagnosis of SLAM Systems**|Nikola Radulov et.al.|[2410.04242](http://arxiv.org/abs/2410.04242)|**[link](https://github.com/nikolaradulov/slamfuse)**|
 |**2024-10-04**|**Unsupervised Prior Learning: Discovering Categorical Pose Priors from Videos**|Ziyu Wang et.al.|[2410.03858](http://arxiv.org/abs/2410.03858)|null|
 |**2024-10-04**|**Universal Global State Estimation for Inertial Navigation Systems**|Sifeddine Benahmed et.al.|[2410.03846](http://arxiv.org/abs/2410.03846)|null|
 |**2024-10-04**|**MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion**|Junyi Zhang et.al.|[2410.03825](http://arxiv.org/abs/2410.03825)|null|
