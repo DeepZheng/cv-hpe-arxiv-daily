@@ -2480,6 +2480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
 |**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962](http://arxiv.org/abs/2410.18962)|null|
 |**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|null|
 |**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983](http://arxiv.org/abs/2410.17983)|**[link](https://github.com/vladpyatov/ihls)**|
@@ -2541,6 +2542,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-25**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
