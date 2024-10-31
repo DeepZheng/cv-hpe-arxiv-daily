@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 ## 2023-7
 
 ### Pose Estimation
@@ -2485,7 +2485,7 @@ layout: default
 |**2024-10-29**|**HRPVT: High-Resolution Pyramid Vision Transformer for medium and small-scale human pose estimation**|Zhoujie Xu et.al.|[2410.22079](http://arxiv.org/abs/2410.22079)|null|
 |**2024-10-29**|**EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data**|Zhonghua Yi et.al.|[2410.21743](http://arxiv.org/abs/2410.21743)|null|
 |**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|
-|**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731](http://arxiv.org/abs/2410.20731)|null|
+|**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731](http://arxiv.org/abs/2410.20731)|**[link](https://github.com/hs1ang-hsu/BLAPose)**|
 |**2024-10-27**|**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**|Mingjiang Liang et.al.|[2410.20358](http://arxiv.org/abs/2410.20358)|null|
 |**2024-10-27**|**Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions**|Rawal Khirodkar et.al.|[2410.20294](http://arxiv.org/abs/2410.20294)|null|
 |**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
@@ -2551,7 +2551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|null|
+|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
