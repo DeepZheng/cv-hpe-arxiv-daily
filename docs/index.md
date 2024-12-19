@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 ## 2023-7
 
 ### Pose Estimation
@@ -2776,6 +2776,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058](http://arxiv.org/abs/2412.13058)|null|
+|**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675](http://arxiv.org/abs/2412.12675)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420](http://arxiv.org/abs/2412.11420)|null|
 |**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573](http://arxiv.org/abs/2412.10573)|null|
 |**2024-12-11**|**CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty**|Harry Zhang et.al.|[2412.10431](http://arxiv.org/abs/2412.10431)|null|
@@ -2825,6 +2827,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
