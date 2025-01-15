@@ -2942,6 +2942,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Predicting 4D Hand Trajectory from Monocular Videos**|Yufei Ye et.al.|[2501.08329](http://arxiv.org/abs/2501.08329)|null|
+|**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
+|**2025-01-14**|**AgentPose: Progressive Distribution Alignment via Feature Agent for Human Pose Distillation**|Feng Zhang et.al.|[2501.08088](http://arxiv.org/abs/2501.08088)|null|
+|**2025-01-14**|**Robust Low-Light Human Pose Estimation through Illumination-Texture Modulation**|Feng Zhang et.al.|[2501.08038](http://arxiv.org/abs/2501.08038)|null|
+|**2025-01-14**|**BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos**|Farnoosh Koleini et.al.|[2501.07800](http://arxiv.org/abs/2501.07800)|null|
+|**2025-01-13**|**Fixing the Scale and Shift in Monocular Depth For Camera Pose Estimation**|Yaqing Ding et.al.|[2501.07742](http://arxiv.org/abs/2501.07742)|**[link](https://github.com/yaqding/pose_monodepth)**|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-13**|**Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics**|Tze Ho Elden Tse et.al.|[2501.07100](http://arxiv.org/abs/2501.07100)|null|
 |**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688](http://arxiv.org/abs/2501.05688)|null|
