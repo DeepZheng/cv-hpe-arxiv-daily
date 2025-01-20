@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 ## 2023-7
 
 ### Pose Estimation
