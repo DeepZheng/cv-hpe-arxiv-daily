@@ -2948,6 +2948,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146](http://arxiv.org/abs/2501.16146)|null|
+|**2025-01-27**|**NanoHTNet: Nano Human Topology Network for Efficient 3D Human Pose Estimation**|Jialun Cai et.al.|[2501.15763](http://arxiv.org/abs/2501.15763)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
+|**2025-01-25**|**SpatioTemporal Learning for Human Pose Estimation in Sparsely-Labeled Videos**|Yingying Jiao et.al.|[2501.15073](http://arxiv.org/abs/2501.15073)|null|
+|**2025-01-24**|**3D/2D Registration of Angiograms using Silhouette-based Differentiable Rendering**|Taewoong Lee et.al.|[2501.14918](http://arxiv.org/abs/2501.14918)|**[link](https://github.com/taewoonglee17/twoviewsdsareg)**|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
+|**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896](http://arxiv.org/abs/2501.14896)|null|
 |**2025-01-24**|**Optimizing Grasping Precision for Industrial Pick-and-Place Tasks Through a Novel Visual Servoing Approach**|Khairidine Benali et.al.|[2501.14557](http://arxiv.org/abs/2501.14557)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502](http://arxiv.org/abs/2501.14502)|null|
 |**2025-01-24**|**Optimizing Human Pose Estimation Through Focused Human and Joint Regions**|Yingying Jiao et.al.|[2501.14439](http://arxiv.org/abs/2501.14439)|null|
@@ -3007,6 +3014,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
+|**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
 |**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
 |**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051](http://arxiv.org/abs/2501.14051)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
 |**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
