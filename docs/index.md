@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 ## 2023-7
 
 ### Pose Estimation
@@ -3248,7 +3248,7 @@ layout: default
 |**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|null|
 |**2025-03-11**|**AthletePose3D: A Benchmark Dataset for 3D Human Pose Estimation and Kinematic Validation in Athletic Movements**|Calvin Yeung et.al.|[2503.07499](http://arxiv.org/abs/2503.07499)|null|
 |**2025-03-10**|**Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey**|Chuqi Wang et.al.|[2503.07278](http://arxiv.org/abs/2503.07278)|null|
-|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
 |**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190](http://arxiv.org/abs/2503.07190)|null|
 |**2025-03-11**|**PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM**|Alan Dao et.al.|[2503.07111](http://arxiv.org/abs/2503.07111)|null|
 |**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660](http://arxiv.org/abs/2503.06660)|null|
