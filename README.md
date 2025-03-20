@@ -3496,6 +3496,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110](http://arxiv.org/abs/2503.15110)|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-18**|**Validation of Human Pose Estimation and Human Mesh Recovery for Extracting Clinically Relevant Motion Data from Videos**|Kai Armstrong et.al.|[2503.14760](http://arxiv.org/abs/2503.14760)|null|
 |**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
 |**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097](http://arxiv.org/abs/2503.14097)|null|
 |**2025-03-18**|**Foundation Feature-Driven Online End-Effector Pose Estimation: A Marker-Free and Learning-Free Approach**|Tianshu Wu et.al.|[2503.14051](http://arxiv.org/abs/2503.14051)|null|
@@ -3566,11 +3570,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
-|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
-|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
+|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|**[link](https://github.com/uav-avl/benchmark)**|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|**[link](https://github.com/pengfei-luo/ImageScope)**|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-11**|**CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**|Dongyue Li et.al.|[2503.08170](http://arxiv.org/abs/2503.08170)|null|
