@@ -3244,6 +3244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602](http://arxiv.org/abs/2504.03602)|null|
+|**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198](http://arxiv.org/abs/2504.03198)|null|
+|**2025-04-03**|**Cooperative Inference for Real-Time 3D Human Pose Estimation in Multi-Device Edge Networks**|Hyun-Ho Choi et.al.|[2504.03052](http://arxiv.org/abs/2504.03052)|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
 |**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617](http://arxiv.org/abs/2504.02617)|null|
 |**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764](http://arxiv.org/abs/2504.01764)|**[link](https://github.com/bigrayss/motion2vec)**|
@@ -3359,6 +3362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
@@ -3445,6 +3449,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602](http://arxiv.org/abs/2504.03602)|null|
+|**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198](http://arxiv.org/abs/2504.03198)|null|
+|**2025-04-03**|**Cooperative Inference for Real-Time 3D Human Pose Estimation in Multi-Device Edge Networks**|Hyun-Ho Choi et.al.|[2504.03052](http://arxiv.org/abs/2504.03052)|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
 |**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617](http://arxiv.org/abs/2504.02617)|null|
 |**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764](http://arxiv.org/abs/2504.01764)|**[link](https://github.com/bigrayss/motion2vec)**|
@@ -3462,6 +3469,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
