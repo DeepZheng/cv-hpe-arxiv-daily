@@ -141,6 +141,7 @@
     <summary><a href=#2025-5>2025-5</a></summary>
     <ol><a href=#pose-estimation>Pose Estimation</a></ol>
     <ol><a href=#visual-localization>Visual Localization</a></ol>
+    <ol><a href=#keypoint-detection>Keypoint Detection</a></ol>
  </details>
 </details>
 
@@ -3825,6 +3826,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
@@ -3865,6 +3867,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
+|**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
 |**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
 |**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
 |**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
@@ -3890,6 +3896,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690](http://arxiv.org/abs/2505.02690)|null|
+|**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501](http://arxiv.org/abs/2505.02501)|null|
+|**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481](http://arxiv.org/abs/2505.02481)|null|
+|**2025-05-05**|**6D Pose Estimation on Spoons and Hands**|Kevin Tan et.al.|[2505.02335](http://arxiv.org/abs/2505.02335)|null|
+|**2025-05-04**|**Continuous Normalizing Flows for Uncertainty-Aware Human Pose Estimation**|Shipeng Liu et.al.|[2505.02287](http://arxiv.org/abs/2505.02287)|null|
+|**2025-05-04**|**A Birotation Solution for Relative Pose Problems**|Hongbo Zhao et.al.|[2505.02025](http://arxiv.org/abs/2505.02025)|null|
+|**2025-05-03**|**Near-field 5D Pose Estimation using Reconfigurable Intelligent Surfaces**|Srikar Sharma Sadhu et.al.|[2505.01829](http://arxiv.org/abs/2505.01829)|null|
+|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
+|**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207](http://arxiv.org/abs/2505.01207)|null|
 |**2025-05-02**|**3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer**|Kamel Aouaidjia et.al.|[2505.01003](http://arxiv.org/abs/2505.01003)|null|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|null|
@@ -3913,6 +3928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
@@ -3924,6 +3940,23 @@
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|**[link](https://github.com/ghanning/gcsa)**|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
+
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+
+### Keypoint Detection
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
+|**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
+|**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
+|**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
+|**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
+|**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
+|**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
 
 <p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
