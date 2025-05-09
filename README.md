@@ -3900,6 +3900,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336](http://arxiv.org/abs/2505.05336)|null|
+|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
+|**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962](http://arxiv.org/abs/2505.04962)|null|
+|**2025-05-07**|**Comparison of Visual Trackers for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2505.04713](http://arxiv.org/abs/2505.04713)|null|
 |**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438](http://arxiv.org/abs/2505.04438)|null|
 |**2025-05-07**|**HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation**|Yajie Fu et.al.|[2505.04276](http://arxiv.org/abs/2505.04276)|**[link](https://github.com/circejie/hdifftg)**|
 |**2025-05-07**|**One2Any: One-Reference 6D Pose Estimation for Any Object**|Mengya Liu et.al.|[2505.04109](http://arxiv.org/abs/2505.04109)|null|
