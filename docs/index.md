@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 ## 2023-7
 
 ### Pose Estimation
@@ -3627,7 +3627,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
-|**2025-05-12**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
+|**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
 |**2025-05-12**|**When Dance Video Archives Challenge Computer Vision**|Philippe Colantoni et.al.|[2505.07249](http://arxiv.org/abs/2505.07249)|null|
 |**2025-05-10**|**CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments**|Shehryar Khattak et.al.|[2505.06483](http://arxiv.org/abs/2505.06483)|null|
 |**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182](http://arxiv.org/abs/2505.06182)|null|
