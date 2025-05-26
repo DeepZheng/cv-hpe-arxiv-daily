@@ -3629,6 +3629,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677](http://arxiv.org/abs/2505.17677)|null|
+|**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475](http://arxiv.org/abs/2505.17475)|**[link](https://github.com/uyoung-jeong/PoseBH)**|
 |**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633](http://arxiv.org/abs/2505.16633)|null|
 |**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144](http://arxiv.org/abs/2505.16144)|null|
 |**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Yihang Li et.al.|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
@@ -3693,6 +3696,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
 |**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
