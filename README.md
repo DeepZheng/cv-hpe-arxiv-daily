@@ -4089,6 +4089,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
+|**2025-06-16**|**JENGA: Object selection and pose estimation for robotic grasping from a stack**|Sai Srinivas Jeevanandam et.al.|[2506.13425](http://arxiv.org/abs/2506.13425)|null|
+|**2025-06-16**|**Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours**|Roman Flepp et.al.|[2506.13292](http://arxiv.org/abs/2506.13292)|null|
+|**2025-06-16**|**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**|Sebastian Janampa et.al.|[2506.13027](http://arxiv.org/abs/2506.13027)|**[link](https://github.com/SebastianJanampa/DETRPose)**|
+|**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782](http://arxiv.org/abs/2506.12782)|null|
+|**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Jayjun Lee et.al.|[2506.12239](http://arxiv.org/abs/2506.12239)|null|
 |**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133](http://arxiv.org/abs/2506.11133)|null|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816](http://arxiv.org/abs/2506.10816)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787](http://arxiv.org/abs/2506.10787)|null|
@@ -4135,6 +4141,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
+|**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
+|**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
+|**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|**[link](https://github.com/adobe-research/polar-vl)**|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
