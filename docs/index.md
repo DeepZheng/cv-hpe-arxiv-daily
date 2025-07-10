@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 ## 2023-7
 
 ### Pose Estimation
@@ -3972,7 +3972,7 @@ layout: default
 |**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532](http://arxiv.org/abs/2507.05532)|null|
 |**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814](http://arxiv.org/abs/2507.04814)|null|
 |**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494](http://arxiv.org/abs/2507.04494)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
+|**2025-07-09**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
 |**2025-07-05**|**Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2507.03925](http://arxiv.org/abs/2507.03925)|null|
 |**2025-07-02**|**Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision**|Patryk Skorupski et.al.|[2507.03016](http://arxiv.org/abs/2507.03016)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
